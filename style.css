@@ -1,0 +1,29 @@
+.userCard{
+    padding: 30px;
+    margin-top: 50px;
+    margin-left: 300px;
+    margin-right: 300px;
+    background-color:antiquewhite;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.userCard #fields{
+    margin: 20px;
+    font-size: 20px;
+}
+#download-data{
+    cursor: pointer;
+    background-color:burlywood;
+    padding: 16px;
+    margin-left: 17px;
+    border: none;
+    color: white;
+    border-radius: 5px;
+}
+h1{
+    text-align: center;
+}
+.userCard .btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
